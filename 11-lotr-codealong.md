@@ -230,11 +230,3 @@ Building and reusing components becomes especially powerful the more complex com
 
 Building one component to rule all them all would save you a lot of time and headaches!
 
-
-### Internet Dive Point
-In case you want to nerd out, here are handy links to the IMDB page for each
-movie:
-
-* [Lord of the Rings: The Fellowship of the Ring](http://www.imdb.com/title/tt0120737/)
-* [Lord of the Rings: The Two Towers](http://www.imdb.com/title/tt0167261/)
-* [Lord of the Rings: The Return of the King](http://www.imdb.com/title/tt0167260/)
