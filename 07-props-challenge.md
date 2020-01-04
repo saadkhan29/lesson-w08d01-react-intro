@@ -28,5 +28,4 @@ Here's what the solution might look like:
 
 ![Solution for Project](images/props_solution.png)
 
-## Going forward
-This blog project is going to continue through the next few days. When there are significant new topics, you'll add it to this blog! By the time you're done with React, you'll have a website with multiple pages; it will have user functionality like editing the blog post and entering their zip code to see their local weather.
+
